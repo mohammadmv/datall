@@ -10,5 +10,19 @@ pre_menu="""
 which one? """
 
 
+pro_menu="""
+0- Classification
+1- Regression
+2- Validation
+which one? """
+
+vis_menu="""
+0- Trees
+1- others
+which one? """
+
+
+
+
 
 
