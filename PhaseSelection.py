@@ -8,6 +8,6 @@ Select in which Phase you want manipulate your data:
 2- visualize
 other- return
 which one? """)
-
-    if selection==0:
+    print(selection)
+    if selection=='0':
         tool_selection = input(Strings.pre_menu)
